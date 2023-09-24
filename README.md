@@ -1,0 +1,1 @@
+An end to end machine learning project that predicts the performance of students in a maths test based on certain features
